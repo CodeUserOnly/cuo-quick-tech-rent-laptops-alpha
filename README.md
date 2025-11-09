@@ -39,11 +39,15 @@ Quick Tech Rent is a full-featured laptop rental web application with **Authenti
 
 ```bash
 
-git-quick-tech-rent-laptops/
+cuo-quick-tech-rent-laptops-alpha/
 ├── node_modules/
 ├── public/
+│   ├── favicon.ico
 │   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
 │   ├── manifest.json
+│   ├── robots.txt
 ├── src/
 │   ├── components/
 │   │   ├── DeviceCard.js
